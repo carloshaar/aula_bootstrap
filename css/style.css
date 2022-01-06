@@ -27,3 +27,7 @@ body {
 .bg-footer {
     background-color: #dfe0e3;
 }
+
+dl {
+    color: red;
+}
